@@ -1,4 +1,8 @@
 _repo: The-Christ-A-Critical-Review-and-Analysis-of-the-Evidences-of-his-Existence_46986
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46986-h/images/cover.jpg
 creator:
   author:
     agent_name: Remsburg, John E. (John Eleazer)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44079
     wikipedia: http://en.wikipedia.org/wiki/John_Remsburg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46986#The-Christ-A-Critical-Review-and-Analysis-of-the-Evidences-of-his-Existence
 gutenberg_issued: '2014-09-28'
 gutenberg_type: Text
 identifiers:
